@@ -7,3 +7,5 @@ import(/* webpackChunkName: "prefetched-module", webpackPrefetch: true */ './pre
 });
 
 console.log('Hello from app.js');
+
+import('bootstrap/js/dist/collapse');

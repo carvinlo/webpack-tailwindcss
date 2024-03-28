@@ -68,3 +68,20 @@ TODO
 
 - Write simple e2e test run on the example, after the deployment
 - Split webpack configs into common + dev/prod to avoid pushing to plugins array
+
+## TODO
+- tailwind@4 https://zhuanlan.zhihu.com/p/686353308?utm_id=0
+- animejs@4
+- Tailwind CSS v3 https://juejin.cn/column/7045544678527074335
+- 前端动画调研 https://juejin.cn/post/6844903655926153223
+
+## UI
+- JS: bootstrap js(组件样式 + 脚本)
+  - 参考
+    - bootstrap https://getbootstrap.com/docs/5.2/components/collapse/
+    - animejs 动画库
+    - mdb-ui https://mdbootstrap.com/docs/standard/components/collapse/
+    - tw-elements https://tw-elements.com/docs/standard/components/gallery/
+- CSS：tw-elements(原子化基础样式)
+  - 参考
+    - tw-elements 组件 snippets 库 https://tw-elements.com/docs/standard/components/gallery/
