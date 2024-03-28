@@ -71,7 +71,6 @@ TODO
 
 ## TODO
 - tailwind@4 https://zhuanlan.zhihu.com/p/686353308?utm_id=0
-- animejs@4
 - Tailwind CSS v3 https://juejin.cn/column/7045544678527074335
 - 前端动画调研 https://juejin.cn/post/6844903655926153223
 
@@ -79,7 +78,9 @@ TODO
 - JS: bootstrap js(组件样式 + 脚本)
   - 参考
     - bootstrap https://getbootstrap.com/docs/5.2/components/collapse/
-    - animejs 动画库
+    - 动画库
+      - plain javscript: animejs@4
+      - react: framer-motion
     - mdb-ui https://mdbootstrap.com/docs/standard/components/collapse/
     - tw-elements https://tw-elements.com/docs/standard/components/gallery/
 - CSS：tw-elements(原子化基础样式)
